@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-example/static/css/main.484e47ed.css",
+    "main.js": "/react-example/static/js/main.65fc7fb0.js",
+    "static/js/787.aff05db8.chunk.js": "/react-example/static/js/787.aff05db8.chunk.js",
+    "static/media/sql-server.svg": "/react-example/static/media/sql-server.faf9645db7accb5d88a409189ad0a7d8.svg",
+    "static/media/codeigniter.svg": "/react-example/static/media/codeigniter.74398a920fdc8334df98bd64cede884f.svg",
+    "static/media/mysql.svg": "/react-example/static/media/mysql.de1f441d77fea35c2d6e1338f3cc540a.svg",
+    "static/media/github.svg": "/react-example/static/media/github.aca0843252807bb6d1229e8179a46676.svg",
+    "static/media/react.svg": "/react-example/static/media/react.7c8375868df8c536ab4f2d4078519904.svg",
+    "static/media/gmail.svg": "/react-example/static/media/gmail.058315f41d1084c2cedf5ccca93b0b2f.svg",
+    "static/media/java.svg": "/react-example/static/media/java.fa3aaa0d9601f02765fd0f91adf5f205.svg",
+    "static/media/bootstrap.svg": "/react-example/static/media/bootstrap.ffbf2d7ee1dceaaa50152c5b44699fed.svg",
+    "index.html": "/react-example/index.html",
+    "static/media/git.svg": "/react-example/static/media/git.ef390047cccb792babdac3f1efc83340.svg",
+    "static/media/php.svg": "/react-example/static/media/php.9ffc26f345dca89b18f9b5d46f388b74.svg",
+    "static/media/code.svg": "/react-example/static/media/code.b8470bd483e0705a2f20a6707fcfbbea.svg",
+    "static/media/js.svg": "/react-example/static/media/js.bacc3387f463f5b56f433827347c6155.svg",
+    "static/media/html5.svg": "/react-example/static/media/html5.9be87547580467a8277f24c79b387222.svg",
+    "static/media/c.svg": "/react-example/static/media/c.13f24c473f4fd7f944b1410cc8058a89.svg",
+    "static/media/css.svg": "/react-example/static/media/css.32dd69d420952df1780d2771ab454d4b.svg",
+    "static/media/linkedin.svg": "/react-example/static/media/linkedin.15f0337078f13db400acab3639711ec7.svg",
+    "main.484e47ed.css.map": "/react-example/static/css/main.484e47ed.css.map",
+    "main.65fc7fb0.js.map": "/react-example/static/js/main.65fc7fb0.js.map",
+    "787.aff05db8.chunk.js.map": "/react-example/static/js/787.aff05db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.484e47ed.css",
+    "static/js/main.65fc7fb0.js"
+  ]
+}
