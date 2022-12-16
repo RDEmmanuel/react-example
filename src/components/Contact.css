@@ -1,0 +1,10 @@
+.contact-container{
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.img-contact{
+    max-height: 150px;
+}
+
+
