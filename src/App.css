@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-body {
+/* body {
   background: rgb(16, 16, 16);
   background: linear-gradient(
     90deg,
@@ -12,4 +12,9 @@ body {
     rgba(37, 37, 37, 1) 65%,
     rgba(16, 16, 16, 1) 98%
   );
+} */
+
+
+body {
+  background: #000;
 }
