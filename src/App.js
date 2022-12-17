@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 
 //Logo imagen
-import img from "./assets/code.svg";
+import img from "./assets/laptop.jpg";
 
 //Skills images
 import codeigniter from "./assets/codeigniter.svg";
